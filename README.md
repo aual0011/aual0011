@@ -59,8 +59,8 @@
 
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aual00111/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="mailto:hello@abdulaual.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://github.com/aual0011"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
