@@ -35,10 +35,10 @@
 ## 📌 Featured Projects
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
-| [Jomir Hisab](https://github.com/aual0011) | Land management system for Bangladeshi users | Laravel, MySQL |
-| [AffiliateStamp](https://github.com/aual0011) | Affiliate verification platform | React, Supabase |
-| [Text33](https://github.com/aual0011) | Professional chatting app with admin panel | React, Supabase |
-| [Searchmate Dashboard](https://github.com/aual0011/searchmate-dashboard) | Modern dashboard UI for managing data | React, Vite, Tailwind |
+|  |
+|  |
+|  |
+|  |
 
 ---
 
